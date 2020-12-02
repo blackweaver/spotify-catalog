@@ -13,7 +13,7 @@ export class SpotifyService {
   }
 
   getToken() {
-    return 'BQCzw8cD1wt3XEanUD657lCaMJZ0WArEdqiEEVUH2RFfdImSb1aIlm4jpYK8xaCBAy-XWcGxiWjzOHJw1bU';
+    return 'BQAXYa1pBtfRfACtdnnPVJsA6-qAyTzNsVDXIF-7Xldsju4Jj4Q3Ra9G9GJ-lEid2VWuKVC0Wq3oAfAAHMU';
   }
 
   getQuery( query: string ) {
