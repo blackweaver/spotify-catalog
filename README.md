@@ -13,5 +13,5 @@ client_secret: your client secret (7a23f4f49d0148959aec0dd85072132e)
 You need generate new tokens from: https://accounts.spotify.com/api/token with post.
 After that, you need change token in spotify.service.ts
 
-You also can be use a server for generate tokens every time.
-
+Or you can see authorization guide:
+https://developer.spotify.com/documentation/general/guides/authorization-guide/
